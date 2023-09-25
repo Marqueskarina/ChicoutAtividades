@@ -13,7 +13,7 @@ campo na próxima linha.*/
 package br.edu.uniaeso.chicoatv.br;
 import java.io.*;
 
-public class exec1 {
+public class questao6 {
     public static void main(String[] args) {
         InputStream fi = null;
         int i = -1;
