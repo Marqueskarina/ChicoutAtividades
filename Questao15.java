@@ -2,7 +2,7 @@ package br.edu.uniaeso.chicoatv.br;
 
 import java.io.*;
 
-public class exec2 {
+public class questao15 {
     public static void main(String[] args) {
         String fi = "C:\\Users\\jhona\\Downloads\\";
         String arquivoOrigem = fi + "arquivo_grande.bin";
