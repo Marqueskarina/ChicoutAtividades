@@ -3,6 +3,7 @@ Ele pula a primeira linha (cabeçalho) e armazena os dados dos funcionários em 
 funcionários, incluindo seus nomes, cargos e salários. O código também filtra e exibe apenas os funcionários que têm o
 cargo "Analista" e um salário mínimo de 5500, com base nos critérios especificados. Qualquer erro durante a leitura do 
 arquivo é capturado e impresso na saída de erro.
+
   */
 package br.edu.uniaeso.chicoatv.br;
 
