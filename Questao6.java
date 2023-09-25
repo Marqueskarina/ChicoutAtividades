@@ -9,7 +9,8 @@ A cada iteração do loop, ele lê um caractere da entrada usando fi.read() e ar
 O programa verifica se o caractere é uma vírgula (,), uma quebra de linha (\n) ou um retorno de carro (\r).
 Se o caractere for uma vírgula, o código imprime o conteúdo do campo atual no console, seguido por um espaço, e reinicializa o currentField para construir o próximo campo.
 Se o caractere for uma quebra de linha ou retorno de carro, o código imprime o conteúdo do campo atual no console e reinicializa o currentField para começar a construir o próximo
-campo na próxima linha.*/
+campo na próxima linha.
+*/
 package br.edu.uniaeso.chicoatv.br;
 import java.io.*;
 
