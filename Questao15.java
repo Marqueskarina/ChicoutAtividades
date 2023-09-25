@@ -1,3 +1,9 @@
+/* 
+Esse código Java faz uma cópia de um arquivo binário. Ele lê o arquivo original "arquivo_grande.bin" e cria 
+uma cópia chamada "copia_arquivo_grande.bin" no diretório de downloads. A leitura e escrita são realizadas de 
+forma otimizada usando BufferedInputStream e BufferedOutputStream para melhor desempenho. Qualquer erro relacionado
+a não encontrar o arquivo ou não poder lê-lo é tratado e impresso na saída correspondente.
+    */
 package br.edu.uniaeso.chicoatv.br;
 
 import java.io.*;
