@@ -1,3 +1,10 @@
+
+/*Este código Java lê um arquivo CSV de funcionários no diretório de downloads, usando a biblioteca OpenCSV. Ele pula a 
+    primeira linha (cabeçalho) e armazena os dados dos funcionários em uma lista. Em seguida, ele exibe todos os funcionários,
+    incluindo seus nomes, cargos e salários. Após isso, ele filtra e exibe apenas os funcionários que têm o cargo "Analista" e 
+    um salário mínimo de 5500, baseando-se nos critérios especificados. Se ocorrer algum erro durante a leitura do arquivo, ele 
+    será capturado e impresso na saída de erro. */
+
 package br.edu.uniaeso.chicoatv.br;
 
 import java.io.FileReader;
@@ -7,7 +14,7 @@ import java.util.List;
 import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;
 
-public class exec3 {
+public class questao24 {
     public static void main(String[] args) {
         String diretorioDownloads = "C:\\Users\\jhona\\Downloads\\";
         String arquivoCSV = diretorioDownloads + "funcionarios.csv";
