@@ -1,7 +1,7 @@
 # ChicoutAtividades
 
 ## Tabela do time e questões
-| Cabeçalho 1 | Questões        |
+|    time     |    Questões     |
 |-------------|-----------------|
 |    Joyce    | 2, 11, 20 e 29  |
 |    Joana    | 3, 12, 21 e 30  |
